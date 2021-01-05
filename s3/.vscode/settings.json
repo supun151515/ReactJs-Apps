@@ -1,0 +1,6 @@
+{
+    "SilverStripe.comments": "true",
+    "SilverStripe.showSnippetCount": true,
+    "SilverStripe.useItems": "true",
+    "tabnine.experimentalAutoImports": true
+}
