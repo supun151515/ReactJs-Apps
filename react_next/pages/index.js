@@ -14,10 +14,13 @@ const Index = (props) => (
 Index.getInitialProps = async function() {
     const res = await fetch('https://api.coindesk.com/v1/bpi/currentprice.json');
     const data = await res.json();
-
-    return {
+    const res1 = await fetch('https://sinergy.lk/test/test.php');
+    const data1 = await res1.json();
+    console.log(data1);
+    return (
+        {
         bpi: data.bpi
-    }
+    })
 }
 
 

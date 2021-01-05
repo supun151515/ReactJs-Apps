@@ -119,7 +119,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Bootstrap_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Bootstrap/bootstrap.min.css */ "./Bootstrap/bootstrap.min.css");
 /* harmony import */ var _Bootstrap_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Bootstrap_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "D:\\react\\react_next\\pages\\_app.js";
+var _jsxFileName = "D:\\react\\ReactJs-Apps\\react_next\\pages\\_app.js";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
